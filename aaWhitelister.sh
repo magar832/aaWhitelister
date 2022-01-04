@@ -1,5 +1,7 @@
 #!/bin/bash
 
+## This variable is the download path for the whitelist. It also acts
+## as the working directory for this script. Change the path as needed. 
 dlpath=$HOME
 
 ## Firstrun check
